@@ -1,0 +1,16 @@
+
+public class InternClass {
+
+	public static void main(String []args) {
+
+		int x = 37;
+		int y = 12;
+		
+		System.out.print("Use the code 'Bobby Big B's' for ");
+		int x - y;		
+		System.out.print("% off your first order at ");
+		System.out.print("Bob's Burgers");
+		
+	}
+	
+}
